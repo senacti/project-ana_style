@@ -19,6 +19,12 @@
  En resumen, la implementación del sistema en "Ana Style" brinda beneficios como mayor eficiencia operativa, reducción de costos, mejora en la atención al cliente y optimización de procesos clave en ventas, logística de entrega, producción e inventario.
                 </p>
             </div>
+            <div class="obj_general">
+                <h1>Objetivo general</h1>
+                <p>
+                    Desarrollar un software para Ana Styles la cual permita la optimización de los procesos de ventas, logistica, produccion e inventario, para si poder brindar un servicio de calidad al cliente y mejor flujo de productos dentro de la empresa 
+                </p>
+            </div>
         </div>
     </body>
 </html>
