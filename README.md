@@ -1,4 +1,10 @@
 <html>
+    <style>
+        .titulo {
+            display: grid;
+            place-items: center;
+        }
+    </style>
     <body>
         <div class="titulo">
             <h1>ANA STYLES</h1>
