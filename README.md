@@ -25,6 +25,15 @@
                     Desarrollar un software para Ana Styles la cual permita la optimización de los procesos de ventas, logistica, produccion e inventario, para si poder brindar un servicio de calidad al cliente y mejor flujo de productos dentro de la empresa 
                 </p>
             </div>
+            <div class="obj_especific">
+                <h1>Objetivos especificos</h1>
+                <ul>
+                    <li><p>Generar el proceso de la venta que permita registrar de manera eficiente, generar informes de ventas y análisis de datos para tomar decisiones estratégicas y mejorar la expectativa del cliente en el proceso de compra.</p></li>
+                    <li><p>Gestionar de manera eficiente y optimizada las entregas de productos, incluyendo la planificación de rutas, seguimiento en tiempo real y comunicación con los clientes. con el fin de organizar los procesos logísticos y mejorar la experiencia del cliente y la recepción de los productos </p></li>
+                    <li><p>optimizar eficientemente los procesos de producción de ropa, incluyendo la planificación, seguimiento y control de calidad, con el fin de mejorar la eficiencia operativa, reducir lo tiempos para la entrega y garantizar la satisfacción del cliente a un mejor.</p></li>
+                    <li><p>Controlar de manera eficiente y precisa el inventario, incluyendo el seguimiento en tiempo real y pronóstico, con el fin de reducir los costos asociados al almacenamiento, minimizar las pérdidas por obsolescencia y mejorar la disponibilidad de productos para satisfacer la demanda de los clientes </p></li>
+                </ul>
+            </div>
         </div>
     </body>
 </html>
