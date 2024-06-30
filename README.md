@@ -1,6 +1,7 @@
 <html>
     <body>
         <div class="titulo">
+            <h6>by: oscar montoya, david ripoll, sebastian torres, juan david buitrago </h6>
             <h1>ANA STYLES</h1>
             <h5>Comodidad a tu alcanze</h5>
         </div>
