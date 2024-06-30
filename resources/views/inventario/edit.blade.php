@@ -6,7 +6,7 @@
         display: inline-block;
         margin-bottom: 20px;
         text-decoration: none;
-        color: #4CAF50;
+        color: #4cbe4f;
         font-weight: bold;
     }
 </style>
