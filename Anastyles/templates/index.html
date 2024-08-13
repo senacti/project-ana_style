@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% load static %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HOME</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <div class="barra_navegacion">
+        <nav class="nav">
+            <div class="logo">
+                <p><img src="{% static 'imagenes/logo.jpg' %}" class="imagen_logo"></p>
+            </div>
+            <div class="navegacion_menu">
+                <ul>
+                    <li><a href="{% url 'inicio_sesion' %}" class="link" active>INICIO DE SECCION</a></li>
+                    <li><a href="" class="link">REGISTRESE</a></li>
+                    <li><a href="" class="link">DE NOSOTROS</a></li>
+                    <li><a href="" class="link">CONTACTO</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="contenedor_recuadros">
+        <div class="div_zapatos">
+            <div class="contenido_zapatos">
+                <p class="titulo_zapatos">ZAPATOS</p>
+                <img src="{% static 'imagenes/zapatos_hombre.jpg' %}" class="imagen_zapatos">
+                <p><button type="submit" class="ver_zapatos" onclick="redireccion_5()">IR!</button></p>
+            </div>
+        </div>
+        <div class="div_ropaniños">
+            <div class="contenido_niños">
+                <p class="titulo_niños">NIÑOS</p>
+                <img src="{% static 'imagenes/ropa_niños.jpg' %}" class="imagen_niños">
+                <p><button type="submit" class="ver_niños" onclick="redireccion_4()">IR!</button></p>
+            </div>
+        </div>
+        <div class="div_ropaadultos">
+            <div class="contenido_adultos">
+                <p class="titulo_adultos">ADULTOS</p>
+                <img src="{% static 'imagenes/ropa_adultos.jpg' %}" class="imagen_adultos">
+                <p><button type="submit" class="ver_adultos" onclick="redireccion_3()">IR!</button></p>
+            </div>
+        </div>
+        <div class="div_accesorios">
+            <div class="contenido_accesorios">
+                <p class="titulo_accesorios">ACCESORIOS</p>
+                <img src="{% static 'imagenes/accsesorios.jpg' %}" class="imagen_accesorios">
+                <p><button type="submit" class="ver_accesorios" onclick="redireccion_2()">IR!</button></p>
+            </div>
+        </div>
+        <div class="div_conjuntos">
+            <div class="contenido_conjuntos">
+                <p class="titulo_conjuntos">CONJUNTOS</p>
+                <img src="{% static 'imagenes/conjuntos.jpg' %}" class="imagen_conjuntos">
+                <p><button type="submit" class="ver_conjuntos" onclick="redireccion_1()">IR!</button></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
